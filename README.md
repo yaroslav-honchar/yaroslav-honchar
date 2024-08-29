@@ -3,7 +3,7 @@
 
 
 <p>
-  Enthusiastic and results-driven Front-End Developer with 2 years of experience crafting interactive and user-friendly websites. Strong knowledge of Git, HTML, CSS, JavaScript, TypeScript, ReactJS, and NextJS, with good knowledge of Angular and NodeJS. Experienced with libraries like PrimeReact, PrimeNG, AntDesign, Material UI, Axios, React Router DOM, TanStack Query, Redux Toolkit, and React Hook Form, Telegraf, Firebase, MongoDB. To develop more scalable and flexible web applications, I use Atomic Design, Feature-Sliced Design and the Compound Components Pattern. Always learning new features and updates in technology to stay current with trends.
+  Enthusiastic and results-driven Front-End Developer, I'm crafting interactive and user-friendly websites. Strong knowledge of Git, HTML, CSS, JavaScript, TypeScript, ReactJS, and NextJS, with good knowledge of Angular and NodeJS. Experienced with libraries like PrimeReact, PrimeNG, AntDesign, Material UI, Axios, React Router DOM, TanStack Query, Redux Toolkit, and React Hook Form, Telegraf, Firebase, MongoDB. To develop more scalable and flexible web applications, I use Atomic Design, Feature-Sliced Design and the Compound Components Pattern. Always learning new features and updates in technology to stay current with trends.
 </p>
 
 <p>
