@@ -6,10 +6,6 @@
   Enthusiastic and results-driven Front-End Developer, I'm crafting interactive and user-friendly websites. Strong knowledge of Git, HTML, CSS, JavaScript, TypeScript, ReactJS, and NextJS, with good knowledge of Angular and NodeJS. Experienced with libraries like PrimeReact, PrimeNG, AntDesign, Material UI, Axios, React Router DOM, TanStack Query, Redux Toolkit, and React Hook Form, Telegraf, Firebase, MongoDB. To develop more scalable and flexible web applications, I use Atomic Design, Feature-Sliced Design and the Compound Components Pattern. Always learning new features and updates in technology to stay current with trends.
 </p>
 
-<p>
-  Currently I am in the process of learning and practising: <b>React Native</b> <img src="https://reactnative.dev/img/header_logo.svg" alt="React native icon" width="18" height="18" />
-</p>
-
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaroslav-honchar-04649020b/)
