@@ -3,7 +3,9 @@
 
 
 <p>
-  Enthusiastic and results-driven Front-End Developer, I'm crafting interactive and user-friendly websites. Strong knowledge of Git, HTML, CSS, JavaScript, TypeScript, ReactJS, and NextJS, with good knowledge of Angular and NodeJS. Experienced with libraries like PrimeReact, PrimeNG, AntDesign, Material UI, Axios, React Router DOM, TanStack Query, Redux Toolkit, and React Hook Form, Telegraf, Firebase, MongoDB. To develop more scalable and flexible web applications, I use Atomic Design, Feature-Sliced Design and the Compound Components Pattern. Always learning new features and updates in technology to stay current with trends.
+Front End Developer with commercial experience in developing interactive platforms and modern web applications, primarily in e-commerce. I specialize in creating high-performance, user-friendly, and scalable interfaces by optimizing rendering and ensuring fast UI performance.
+
+I actively work with Next.js (SSR/SSG), using TypeScript for type safety and code maintainability. Not only that, but I have a strong understanding of Redux Toolkit and Axios, allowing me to efficiently manage application state and handle API requests. Additionally, I have basic experience with React Native.
 </p>
 
 <h3 align="left">Connect with me:</h3>
